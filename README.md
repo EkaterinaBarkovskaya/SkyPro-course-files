@@ -11,10 +11,10 @@
 
 
 
-# Аналитик данных — Яндекс.Практикум
-[![Аналитик данных — Яндекс.Практикум](/logo.png)](https://praktikum.yandex.ru/data-analyst/)
+# Аналитик данных — SkyPro
+[![Аналитик данных — SkyPro](/LogoSkypro.png)](https://sky.pro/courses/analytics/data_analytics)
 
-Ссылка на курс: https://praktikum.yandex.ru/data-analyst/
+Ссылка на курс: https://sky.pro/courses/analytics/data_analytics
 
 
 ## Описание:
