@@ -1,16 +1,3 @@
-# Skypro
-Проекты по программе "Аналитик данных" от SkyPro
-
-
-##  В этом проекте используются:
-
-* Respond.js от Scott Jehl под двойной лицензией MIT или GPL Version 2.
-* HTML5shiv под лицензией MIT.
-* [ Respond.js ] (https://github.com/scottjehl/Respond) Скотта Джела, под лицензией MIT.
-* [ The HTML5 Shiv ](https://github.com/aFarkas/html5shiv), двойная лицензия в соответствии с лицензиями MIT или GPL Version 2.
-
-
-
 # Аналитик данных — SkyPro
 [![Аналитик данных — SkyPro](/LogoSkypro.png)](https://sky.pro/courses/analytics/data_analytics)
 
