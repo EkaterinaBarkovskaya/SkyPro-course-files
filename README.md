@@ -21,7 +21,5 @@
 |3              |[  ]( )|  |
 |4              |[  ]( )|  |
 |5              |[  ]( )|  |
- оттока|
-|13             |Выпускной проект: [SQL](https://nbviewer.jupyter.org/github/    /sql.ipynb), [AB](https://nbviewer.jupyter.org/github/   /ab.ipynb), [Исследование](https://nbviewer.jupyter.org/github/  /ecommerce.ipynb), [Презентация](https://github.com/  .pdf)|Тут анализируем товарный ассортимент интернет-магазина, делаем задания по A/B-тестированию и SQL|
 
 ---
