@@ -5,7 +5,7 @@
 
 
 ## Описание:
-В репозитории аналитические проекты и [методички по поведенческим алгоритмам](https://github.com/EkaterinaBarkovskaya/Skypro).
+В репозитории [аналитические проекты](https://github.com/EkaterinaBarkovskaya/Skypro).
 
 ## Как выглядит программа:
 ![Аналитик данных — программа](/program.png)
